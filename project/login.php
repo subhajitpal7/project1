@@ -14,7 +14,7 @@
         <br>
 
       <div class="jumbotron">
-        <center><h2 style="color:#195ad1">Search for Dieseases</h2>      
+        <center><h2 style="color:#195ad1">Search for Diseases</h2>      
         </center>
       </div>
         <br>
@@ -24,7 +24,7 @@
                     <div class="input-group-btn search-panel">
 
                     </div>        
-                    <input type="text" class="form-control" name="diesease" placeholder="Search term...">
+                    <input type="text" class="form-control" name="diesease" placeholder="Search for disease">
                     <br>
                     <div class="input-group-btn search-panel">
                         <button class="btn btn-primary" name="submit" type="submit"><span class="glyphicon glyphicon-search"></span></button>
